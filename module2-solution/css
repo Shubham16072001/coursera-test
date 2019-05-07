@@ -22,7 +22,7 @@ p {
 	width: 100%;
 	height: auto;
 	font-family: Arial;
-	color: #000000;
+	color: black
 	position: relative;
 	overflow: auto;
 } 
